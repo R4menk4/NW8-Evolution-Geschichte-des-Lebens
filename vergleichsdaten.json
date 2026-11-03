@@ -1,0 +1,40 @@
+{
+  "rows": [
+    [
+      "versteinerung",
+      "Versteinerung"
+    ],
+    [
+      "abdruck",
+      "Abdruck"
+    ],
+    [
+      "bernstein",
+      "Einschluss in Bernstein"
+    ]
+  ],
+  "cards": {
+    "v-entstehung": "Gelöste Mineralien füllen Hohlräume oder ersetzen ursprüngliches Material.",
+    "v-erhalten": "Die Form und oft auch feine Strukturen eines Körperrests.",
+    "v-beispiel": "Versteinertes Holz.",
+    "a-entstehung": "Ein Körperteil hinterlässt seine Form in Sand oder Schlamm und verschwindet später.",
+    "a-erhalten": "Der Abdruck der äußeren Form; der ursprüngliche Körperteil fehlt.",
+    "a-beispiel": "Blattabdruck im Gestein.",
+    "b-entstehung": "Baumharz umschließt ein Tier. Aus dem Harz wird über lange Zeit Bernstein.",
+    "b-erhalten": "Ein eingeschlossener Körper mit feinen äußeren Merkmalen.",
+    "b-beispiel": "Insekt in Bernstein."
+  },
+  "slots": {
+    "versteinerung-entstehung": "v-entstehung",
+    "versteinerung-erhalten": "v-erhalten",
+    "versteinerung-beispiel": "v-beispiel",
+    "abdruck-entstehung": "a-entstehung",
+    "abdruck-erhalten": "a-erhalten",
+    "abdruck-beispiel": "a-beispiel",
+    "bernstein-entstehung": "b-entstehung",
+    "bernstein-erhalten": "b-erhalten",
+    "bernstein-beispiel": "b-beispiel"
+  },
+  "definition_fossil": "Ein Fossil ist ein erhaltener Rest, Abdruck oder eine Lebensspur eines Lebewesens aus einer früheren Erdzeit.",
+  "definition_leitfossil": "Ein Leitfossil ist ein Fossil einer Art, die nur während eines kurzen Abschnitts der Erdgeschichte lebte und weit verbreitet war. Mit Leitfossilien können Gesteinsschichten einem bestimmten Zeitabschnitt zugeordnet und miteinander verglichen werden."
+}
